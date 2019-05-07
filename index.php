@@ -15,6 +15,7 @@
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Lato:Lato:300,400,700,900|Montserrat:300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
   </head>
 <body>
   <div id="mySidenav" class="sidenav">
@@ -28,7 +29,10 @@
     <div class="">
       <div class="col-lg-12 cstm-center1">
         <div class="col-lg-3">
-          <img src="img/logo.jpg" class="img-responsive">
+          <!-- <img src="img/logo.jpg" class="img-responsive"> -->
+         
+                <strong class="muse">MuseModelsTV</strong>
+           
         </div>
         <div class="col-lg-9">
           <button class = "navbar-toggle" data-toggle="collapse" data-target = ".navHeaderCollapse" >
